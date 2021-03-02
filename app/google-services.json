@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039520321349",
+    "project_id": "testauth-7330a",
+    "storage_bucket": "testauth-7330a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039520321349:android:eb177e7dca58eae99cb82c",
+        "android_client_info": {
+          "package_name": "com.projectapin.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039520321349-g9tf7h2eo9hu7a51ntabcu50iho1qr7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3VwUUtq-_98JuaR1yctp8iHwRqpWVZxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039520321349-g9tf7h2eo9hu7a51ntabcu50iho1qr7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
